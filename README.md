@@ -1,1 +1,1 @@
-# cs-playground
+# My Computer Science Education
