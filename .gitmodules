@@ -1,0 +1,6 @@
+[submodule "typescript-playground"]
+	path = typescript-playground
+	url = https://github.com/Arslanoov/ts-cs-playground
+[submodule "python-playground"]
+	path = python-playground
+	url = https://github.com/Arslanoov/py-cs-playground
