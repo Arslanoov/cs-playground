@@ -13,4 +13,4 @@ I also solve <b>LeetCode</b> and <b>BFE</b> problems.
 * <a href="https://bigfrontend.dev/user/Arslanoov">BFE Account</a>
 
 If you have any feedback, please write: <br />
-<a href="mailto:rasul@arslanoov.red">rasul@arslanoov.red</a>
+<a href="mailto:rasularslanoov@gmail.com">rasularslanoov@gmail.com</a>
